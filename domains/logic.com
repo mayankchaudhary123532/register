@@ -1,0 +1,9 @@
+{
+"owner" {
+"username":"mayankchaudhary12352"
+},
+"record":{
+"CNAME":"mayankchaudhary12352.github.io"
+}
+}
+  
